@@ -1,0 +1,1 @@
+This is my first project with the Odin Project. After weeks of studying & practicing I am finally going to put the many things I learned to the test. I am very nervous. 
